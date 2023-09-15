@@ -1,0 +1,68 @@
+### WordPress ###
+# Core
+#
+# Note: if you want to stage/commit WP core files
+# you can delete this whole section/until Configuration.
+/wp-admin/
+/wp-content/index.php
+/wp-content/languages
+/wp-content/plugins/index.php
+/wp-content/themes/index.php
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+# Configuration
+wp-config.php
+
+# Example themes
+/wp-content/themes/twenty*/
+
+# Example plugin
+/wp-content/plugins/hello.php
+
+# Uploads
+/wp-content/uploads/
+
+# Log files
+*.log
+/db/dumps/
+
+# htaccess
+/.htaccess
+
+# EXTENSIONS
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.swp
+*.t3x
+*.tar.gz
+*.tar
+*.zip
+
+# TEMPORAL FILES
+################
+/tmp/
+.tmp_*
+
+# CACHE UNTRACKED FILES AND PLUGINS
+# #################################
+/web/wp-content/advanced-cache.php
+/web/wp-content/autoptimize_404_handler.php
+/web/wp-content/db.php
+/web/wp-content/object-cache.php
+/web/wp-content/cache/
+/web/wp-content/et-cache/
+/web/wp-content/plugins/w3-total-cache/
+/web/wp-content/w3tc-config/
+/web/wp-content/wp-rocket-config/
+/web/wp-content/plugins/nginx-helper
+/web/wp-content/plugins/wp-optimize
