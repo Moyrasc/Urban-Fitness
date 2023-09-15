@@ -4,7 +4,7 @@
 
 ## Descripción
 
-    Urban Fitness es un proyecto de desarrollo de un sitio web para un gimnasio. El objetivo principal es crear una plataforma en línea que permita a los usuarios obtener información sobre el gimnasio, sus servicios, actividades, y sus en clases y además obtener recursos relacionados con el fitness en su blog.
+Urban Fitness es un proyecto de desarrollo de un sitio web para un gimnasio. El objetivo principal es crear una plataforma en línea que permita a los usuarios obtener información sobre el gimnasio, sus servicios, actividades, y sus en clases y además obtener recursos relacionados con el fitness en su blog.
 
 ## Características Destacadas
 
